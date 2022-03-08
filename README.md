@@ -14,6 +14,7 @@ The challenge was to design a website then write the code for a responsive websi
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 - [Web Tools Used](#web-tools-used)
+- [Final Files](#final-files)
 
 ## Overview
 
@@ -112,5 +113,7 @@ I referenced the following websites when I got stuck or wanted to learn more.
 - [minifier.org](https://www.minifier.org/) - Minify the CSS file
 
 - [app.netlify.com/drop](https://app.netlify.com/drop) - Host the website
+
+## Final Files
 
 Final site is in the [_production](/_production) directory
