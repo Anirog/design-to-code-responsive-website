@@ -24,7 +24,7 @@ The challenge was to design a website then write the code for a responsive websi
 
 ### Challenge site
 
-- [Live Site](https://inspiring-villani-d79eb6.netlify.app/)
+- [Live Site](https://anirog.github.io/design-to-code-responsive-website/)
 
 ## My process
 
