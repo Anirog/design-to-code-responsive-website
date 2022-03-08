@@ -36,7 +36,7 @@ The challenge was to design a website then write the code for a responsive websi
 
 ### What I learned
 
-I learned that designing in Sketch or any other design tool, (Figma, Adobe XD etc.) it is then easier to code the final website because the properties for font family, font size, margin and padding have already been declared.
+I learned that designing in Sketch or any other design tool, (Figma, Adobe XD etc.) it's then easier to code the final website because the properties for font family, font size, margin and padding have already been declared.
 
 Instead of adding a different class to each card element, I used The `:nth-child()` CSS pseudo-class. So I could easily add a different background image to the other cards.
 
