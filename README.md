@@ -43,13 +43,13 @@ Instead of adding a different class to each card element, I used The `:nth-child
 The `grid-gap` property is depreciated use `gap` instead. see [Acknowledgments](#acknowledgments) :point_down:
 
 HTML
-```
+```html
 <div class="card">
 </div>
 ```
 
 CSS
-```
+```css
 /* Select the first card */
 .card:nth-child(1) {
     background-image: url(/images/image-1.jpg);
@@ -63,7 +63,7 @@ CSS
 
 For the hover state of the card, I used the `transform` CSS property, to scale the card up slightly when the user hovers over the card element.
 
-```
+```css
 .card:hover {
     transform: scale(1.02);
 }
@@ -71,7 +71,7 @@ For the hover state of the card, I used the `transform` CSS property, to scale t
 
 I used the `transition` CSS property to add a slight delay to the scale.
 
-```
+```css
 .card {
   transition: all .3s ease;
 }
